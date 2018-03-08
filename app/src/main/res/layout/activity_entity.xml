@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/background_main"
+    android:minHeight="@dimen/list_item_height"
+    tools:context="com.example.android.musicstructureapp.InstrumentActivity">
+
+    <ImageView
+        android:id="@+id/song_cover_image_view"
+        android:layout_width="@dimen/list_item_height"
+        android:layout_height="@dimen/list_item_height" />
+
+    <TextView
+        android:id="@+id/song_name_text_view"
+        style="@style/CategoryItem"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@id/song_cover_image_view"
+        android:layout_toRightOf="@id/song_cover_image_view" />
+
+    <ImageView
+        android:layout_width="@dimen/image_list"
+        android:layout_height="@dimen/image_list"
+        android:layout_alignParentRight="true"
+        android:layout_margin="16dp"
+        android:src="@drawable/ic_play_circle_outline"
+        android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_main">
+
+    <RelativeLayout xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context="com.example.android.musicstructureapp.MainActivity">
+
+        <FrameLayout
+            android:id="@+id/frame_layout_instruments"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/instruments_image_view"
+                android:layout_width="@dimen/image_page_first"
+                android:layout_height="@dimen/image_page_first"
+                android:src="@drawable/instrument" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/frame_layout_nature"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/frame_layout_instruments"
+            android:layout_toRightOf="@id/frame_layout_instruments">
+
+            <ImageView
+                android:id="@+id/nature_image_view"
+                android:layout_width="@dimen/image_page_first"
+                android:layout_height="@dimen/image_page_first"
+                android:src="@drawable/natur" />
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/frame_layout_animals"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/frame_layout_instruments">
+
+            <ImageView
+                android:id="@+id/animals_image_view"
+                android:layout_width="@dimen/image_page_first"
+                android:layout_height="@dimen/image_page_first"
+                android:src="@drawable/animal" />
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/frame_layout_music"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/frame_layout_nature"
+            android:layout_toEndOf="@id/frame_layout_animals"
+            android:layout_toRightOf="@id/frame_layout_animals">
+
+            <ImageView
+                android:id="@+id/music_image_view"
+                android:layout_width="@dimen/image_page_first"
+                android:layout_height="@dimen/image_page_first"
+                android:src="@drawable/music" />
+        </FrameLayout>
+
+    </RelativeLayout>
+</ScrollView>
+
+

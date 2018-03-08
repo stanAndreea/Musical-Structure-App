@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="category_instruments">Instruments</string>
+    <string name="category_nature">Nature</string>
+    <string name="category_animals">Animals</string>
+    <string name="category_song">Songs</string>
+    <string name="animals_dog">Dog</string>
+    <string name="animals_cat">Cat</string>
+    <string name="animals_frog">Frog</string>
+    <string name="animals_bear">Bear</string>
+    <string name="animals_wolf">Wolf</string>
+    <string name="animals_bird">Bird</string>
+    <string name="animals_chicken">Chicken</string>
+    <string name="animals_cow">Cow</string>
+    <string name="animals_cricket">Cricket</string>
+    <string name="animals_eagle">Eagle</string>
+    <string name="animals_horses">Horses</string>
+    <string name="animals_lion">Lion</string>
+    <string name="animals_monkey">Monkey</string>
+    <string name="animals_owl">Owl</string>
+    <string name="animals_pig">Pig</string>
+    <string name="animals_whales">Whales</string>
+    <string name="instruments_guitar">Guitar</string>
+    <string name="instruments_piano">Piano</string>
+    <string name="instruments_saxophone">Saxophone</string>
+    <string name="instruments_tambourine">Tambourine</string>
+    <string name="instruments_violin">Violin</string>
+    <string name="instruments_drums">Drums</string>
+    <string name="instruments_trumpet">Trumpet</string>
+    <string name="instruments_harp">Harp</string>
+    <string name="nature_wind">Wind</string>
+    <string name="nature_thunderstorm">Thunderstorm</string>
+    <string name="nature_wave">Wave</string>
+    <string name="nature_night">Night in forest</string>
+    <string name="nature_jungle">Jungle</string>
+    <string name="nature_forest">Forest</string>
+    <string name="nature_ocean">Ocean</string>
+    <string name="song_abc" translatable="false">ABC</string>
+    <string name="song_animals">Animals</string>
+    <string name="song_numbers">Numbers</string>
+    <string name="song_old_mc">Old McDolnald</string>
+    <string name="song_baby">Baby shark</string>
+    <string name="song_tigger" translatable="false">Winnie the Pooh : Tigger</string>
+    <string name="song_scooby" translatable="false">Scooby Doo</string>
+    <string name="song_addams" translatable="false">Family Addams</string>
+    <string name="song_frozen" translatable="false">Frozen</string>
+    <string name="song_hakuna" translatable="false">Hakuna Matata</string>
+    <string name="song_moana" translatable="false">Moana</string>
+    <string name="song_like_move" translatable="false">I like to move it</string>
+</resources>

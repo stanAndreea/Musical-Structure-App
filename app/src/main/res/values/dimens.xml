@@ -1,0 +1,6 @@
+
+<resources>
+    <dimen name="list_item_height">88dp</dimen>
+    <dimen name="image_list">24dp</dimen>
+    <dimen name="image_page_first">200dp</dimen>
+</resources>

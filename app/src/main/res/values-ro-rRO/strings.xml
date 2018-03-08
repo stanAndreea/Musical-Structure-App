@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Muzica</string>
+    <string name="category_instruments">Instrumente</string>
+    <string name="category_nature">Natura</string>
+    <string name="category_animals">Animale</string>
+    <string name="category_song">Cantece</string>
+    <string name="animals_dog">Caine</string>
+    <string name="animals_cat">Pisica</string>
+    <string name="animals_frog">Broasca</string>
+    <string name="animals_bear">Urs</string>
+    <string name="animals_wolf">Lup</string>
+    <string name="animals_bird">Pasare</string>
+    <string name="animals_chicken">Gaina</string>
+    <string name="animals_cow">Vaca</string>
+    <string name="animals_cricket">Greiere</string>
+    <string name="animals_eagle">Vultur</string>
+    <string name="animals_horses">Cal</string>
+    <string name="animals_lion">Leu</string>
+    <string name="animals_monkey">Maimuta</string>
+    <string name="animals_owl">Bufnita</string>
+    <string name="animals_pig">Porc</string>
+    <string name="animals_whales">Baleta</string>
+    <string name="instruments_guitar">Chitara</string>
+    <string name="instruments_piano">Pian</string>
+    <string name="instruments_saxophone">Saxofon</string>
+    <string name="instruments_tambourine">Tamburina</string>
+    <string name="instruments_violin">Vioara</string>
+    <string name="instruments_drums">Tobe</string>
+    <string name="instruments_trumpet">Trompeta</string>
+    <string name="instruments_harp">Harpa</string>
+    <string name="nature_wind">Vant</string>
+    <string name="nature_thunderstorm">Tunet</string>
+    <string name="nature_wave">Val</string>
+    <string name="nature_night">Noapte in padure</string>
+    <string name="nature_jungle">Jungla</string>
+    <string name="nature_forest">Padure</string>
+    <string name="nature_ocean">Ocean</string>
+    <string name="song_animals">Animale</string>
+    <string name="song_numbers">Numere</string>
+    <string name="song_old_mc">Batranul McDolnald</string>
+    <string name="song_baby">Pui de rechin</string>
+</resources>

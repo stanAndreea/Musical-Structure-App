@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+
+
+    <color name="category_instrument">#A7FFEB</color>
+    <color name="category_nature">#B2DFDB</color>
+    <color name="category_animals">#B9F6CA</color>
+    <color name="category_song">#B3E5FC</color>
+
+    <color name="background_main">#E8F5E9</color>
+    <color name="color_text">#212121</color>
+</resources>
